@@ -1,0 +1,2 @@
+Name=org.mate.panel.applet.GTranslateAppletFactory
+Exec=/usr/bin/python3 /home/sankass/workspace/google-translate.applet/gtranslate.py

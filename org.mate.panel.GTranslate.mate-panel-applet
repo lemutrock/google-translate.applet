@@ -1,0 +1,13 @@
+[Applet Factory]
+Id=GTranslateAppletFactory
+InProcess=false
+Location=/home/sankass/workspace/google-translate.applet/gtranslate.py
+Name=GTranslate Applet Factory
+Description=Google translate applet for Mate Panel
+    
+[GTranslate]
+Name=GTranslate
+Description=A Google Translate MATE Python Applet
+Icon=mate
+MateComponentId=OAFIID:MATE_GTranslateApplet;
+
