@@ -1,3 +1,1 @@
-/usr/share/dbus-1/services/*.service
-
-/usr/share/mate-panel/applets/*.mate-panel-applet
+MATE applet for translate-shell (https://github.com/soimort/translate-shell)
